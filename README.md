@@ -1,0 +1,1 @@
+# plugins-editor-menu-and-widget-access
